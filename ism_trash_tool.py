@@ -7,5 +7,5 @@ if __name__ == '__main__':
     # so that our local imghdr.py can be found.
     sys.path.insert(0, os.getcwd())
     
-    sys.argv = ["streamlit", "run", "src/ism_trash_tool.py"]
+    sys.argv = ["streamlit", "run", "src/run_app.py"]
     sys.exit(cli.main())
