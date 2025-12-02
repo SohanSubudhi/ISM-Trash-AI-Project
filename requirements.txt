@@ -1,4 +1,0 @@
-streamlit == 1.21.*
-streamlit_image_select == 0.6.0
-pillow == 9.4.0
-requests == 2.29.0
